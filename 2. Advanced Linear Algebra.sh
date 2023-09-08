@@ -9,7 +9,6 @@ algebraic system spanning
 algebraic system linear independence
 algebraic system basic
 algebraic system dimension
-
 permutations symmetric groups
 permutations representing function as directed graphs
 permutations cycle decompositions of permutations
@@ -17,7 +16,6 @@ permutations of composition of cycles
 permutations of factorization of permutations
 permutations of inversion and sorting
 permutations of signs of permutations
-
 polynomial intuitive
 definition of polynomial
 algebraic operations on polynomial
@@ -38,7 +36,6 @@ eisentein's irreducibility criterion for Q |x|
 kronecker's algorithm for factoring in Q|x|
 algebraic elements and minimal polynomial
 multivariable polynomial
-
 basic matrix operation
 formal definition of matrices and vectors
 vector spaces of functions 
@@ -53,7 +50,6 @@ elementary matrices and gaussian elimination
 elementary matrices and invertibility
 row rank and column rank
 condition for invertibility of a matrix
-
 determinant via calculations
 matrices with entries in a ring
 explicit definition of the determinant
@@ -71,7 +67,6 @@ product formula for determinant
 cauchy binet formula
 cayley hamilton theorem
 permanents
-
 concrete vs abstract linear algebra
 concrete column vector vs abstract vectors
 examples of computing coordinates
@@ -113,7 +108,6 @@ polar decomposition invertible case
 polar decomposition general case
 interlacing eigenvalues for hermitian matrices
 determinant criterion for position definite matrices
-
 jordan canonical form
 nilpotent maps
 partition diagrams
@@ -126,7 +120,6 @@ computing jordan canonocal forms
 application to differential equations
 minimal polynomial
 jordan chevalley decomposition of a linear operator
-
 matrix factorization
 approximation by orthonormal vectors
 gram schmidt orthonormalization
@@ -139,7 +132,6 @@ permuted LU factorizations
 cholesky factorization
 least squares approximation
 singular value decomposition
-
 iterative algorithm in numerical linear algebra
 richardson algorithm
 jacobi algorithm
@@ -157,7 +149,6 @@ induced matrix norm and spectral radious
 analysis of the gauss seidel algorithm
 shifted and inverse power method
 deflation
-
 interplay of geometry and linear algebra
 affine geometry and convexity
 linear subspaces
@@ -180,7 +171,6 @@ all h cones are v cones
 finite intersections of closed half space
 convex functions
 derivative test for convex functions
-
 ruler and compass constructions
 geometry constructibility
 arithmetic constructibility
@@ -192,7 +182,6 @@ algebraic elements and minimal polynomials
 proof of AC = SQC
 impossibility of the 17 Gon
 solvabilities by radicals
-
 dual spaces and bilinear forms
 vector spaces of linear maps
 dual bases
@@ -206,7 +195,6 @@ real inner product spaces
 complex inner product spaces
 comment on infinite dimensional spaces
 affine algebraic geometry
-
 metrics spaces and hilbert spaces
 convergent sequences
 closed sets
@@ -224,7 +212,6 @@ isomorphism of H and L2(X)
 continuous linear maps
 dual space of a hilbert space
 adjoint
-
 modules independence and classification theorem
 finitely generated commutative groups
 commutative groups
